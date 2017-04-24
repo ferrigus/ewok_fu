@@ -49,6 +49,18 @@
     background-color: #ffffff;
 }
 
+.navbar-collapse {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.navbar-default .navbar-collapse {
+    border-color: transparent;
+}
+.nav>li>a {
+    background-color: #222222;
+}
+
 .img_static_width {
     width: 100%;
 }
